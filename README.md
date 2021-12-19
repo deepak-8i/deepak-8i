@@ -1,5 +1,7 @@
 
-https://deepak-8i.github.io/online-cv/
+Resume  :  https://deepak-8i.github.io/online-cv/
+LinkedIn : https://www.linkedin.com/in/deepakjaiswal18/
+Stackoverflow : https://stackoverflow.com/users/4674944/deepak
 
 - 🔭 I’m currently working on ... an Enterprise Application handling Clients Portfolios. 
 - 🌱 I’m currently learning ... Kubernetes, GraphQL
