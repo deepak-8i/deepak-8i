@@ -10,7 +10,7 @@
 -->
  
  
-Resume  :  https://deepak-8i.github.io/online-cv
+Resume  :  https://deepak-8i.github.io/online-cv (In progress)
 
 LinkedIn : https://www.linkedin.com/in/deepakjaiswal18
 
